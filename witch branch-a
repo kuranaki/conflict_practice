@@ -1,0 +1,20 @@
+[33mcommit 26ed0756f9dd67faa7a4cd0a0603b3107ac8418d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 0a33223 9cca7a1
+Author: kuranaki <167798108+kuranaki@users.noreply.github.com>
+Date:   Thu Apr 25 11:50:27 2024 +0900
+
+    Merge pull request #1 from kuranaki/branch-b
+    
+    fix the favorite food on branch-b
+
+[33mcommit 9cca7a18e037098a497495b3d60acee44fc3e22f[m[33m ([m[1;31morigin/branch-b[m[33m, [m[1;32mbranch-b[m[33m)[m
+Author: 蔵鳴つなぐ <yuuhigaokasyoutengai@gmail.com>
+Date:   Thu Apr 25 02:49:11 2024 +0000
+
+    update the favorite food on branch-b
+
+[33mcommit 0a33223481b3a5132abaf6f30313c0063913a404[m
+Author: 蔵鳴つなぐ <yuuhigaokasyoutengai@gmail.com>
+Date:   Thu Apr 25 02:46:51 2024 +0000
+
+    initial commit
